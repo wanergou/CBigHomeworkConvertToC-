@@ -31,6 +31,5 @@ public:
 	void gotoxy(const positionXY& position);
 	void show(void);
 
-
-
+	virtual void sloveKey(int key) = 0;
 };

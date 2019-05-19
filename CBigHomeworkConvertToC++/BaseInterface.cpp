@@ -4,7 +4,7 @@ const positionXY BaseInterface::bottonPosition[3][2] = { {{5, 3}, {65, 3} },
 														{ {5, 9}, {65, 9} },
 														{ {5, 15}, {65, 15} } };//保存6个功能按钮的绝对坐标
 
-const positionXY BaseInterface::formPosition[2] = { {24, 6},{24, 8} }; //保存可能会用到的表单的绝对坐标const 
+const positionXY BaseInterface::formPosition[2] = { {24, 6},{24, 8} }; //保存可能会用到的表单的绝对坐标
 
 
 
